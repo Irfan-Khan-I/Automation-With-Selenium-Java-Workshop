@@ -7,9 +7,6 @@ For config Refer "Pre-resuisites" document.
 Contributing:
 Contributions are welcome! If you have suggestions for enhancements, new features, or bug fixes, please submit a pull request or open an issue.
 
-License:
-This repository is licensed under the MIT License.
-
 Acknowledgments:
 Special thanks to OpenAI for providing valuable resources and inspiration and to the mentors of this workshop.
 
